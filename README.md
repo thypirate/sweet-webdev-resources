@@ -7,7 +7,7 @@ This repo has the purpose to provide useful/cool resourses like javascript libra
 
 Content List
 ---
-* [Web Frameworks](#web-frameworks)
+[Web Frameworks](#web-frameworks)
 
 ### Web Frameworks
 + [Meteor](https://www.meteor.com/)
