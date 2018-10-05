@@ -3,7 +3,7 @@ A collection of awesome web development tools and other cools resources
 
 Purpose of this repo
 ---
-This repo has the purpose to provide useful resourses like javascript libraries, guides, blogs, web frameworks and so on.
+This repo has the purpose to provide useful resources like javascript libraries, guides, blogs, web frameworks and so on.
 
 Content List
 ---
@@ -37,7 +37,7 @@ Content List
   Flakes is an Open Source Design & Frontend Framework that serves as a foundation for internal business applications
 + [AdminJs](https://github.com/getoutreach/adminjs)
 
-  AdminJs is a backend agnostic administration framework.
+  AdminJs is a backend agnostic administration framework
 + [Flight](https://flightjs.github.io/)
 
   Flight is a component-based, event-driven JavaScript framework from Twitter
