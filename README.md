@@ -7,7 +7,7 @@ This repo has the purpose to provide useful resources like javascript libraries,
 
 Content List
 ---
-[Web Frameworks](#web-frameworks)
+[Web Frameworks](#web-frameworks) | [Productivity](#productivity)
 
 ### Web Frameworks
 + [Meteor](https://www.meteor.com/)
@@ -128,3 +128,28 @@ Content List
 + [Selenium](https://www.seleniumhq.org/)
 
   Selenium is a software-testing framework for web applications
++ [Angular](https://angular.io/)
+
+  Angular is a platform that makes it easy to build applications with the web
+
+---
+
+### Productivity
++ [IFTTT](https://ifttt.com/)
+
+  IFTTT is the free way to get all your apps and devices talking to each other
++ [Zapier](https://zapier.com/)
+
+  Zapier lets you connect your apps and automate workflows
++ [Netlify](https://www.netlify.com/)
+
+  An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS
++ [Gulp](https://gulpjs.com/)
+
+  Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something
++ [Grunt](https://gruntjs.com/)
+
+  Grunt is a javascript task runner
++ [Vagrant](https://www.vagrantup.com/)
+
+  HashiCorp Vagrant provides the same, easy workflow regardless of your role as a developer, operator, or designer
