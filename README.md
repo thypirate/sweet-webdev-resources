@@ -1,8 +1,16 @@
 # awesome-webdev-tools
-A collection of awesome web development tools and other cools resources
 ---
-### Web Frameworks
+A collection of awesome web development tools and other cools resources
 
+Purpose of this repo
+---
+This repo has the purpose to provide useful/cool resourses like javascript libraries, guides, blogs web frameworks and so on.
+
+Content List
+---
+[Web Frameworks](#web-frameworks)
+
+### Web Frameworks
 + [Meteor](https://www.meteor.com/)
 
 Meteor is an ultra-simple environment for building modern web applications
@@ -42,7 +50,7 @@ Materialize is a modern responsive front-end framework based on Material Design
 Rachet allows you to build mobile apps with simple HTML‚ CSS‚ and JS components
 + [ConciseCSS](http://concisecss.com/)
 
-ConciseCss is a Css Framework that provides a solid foundation to stylize your website. It offers an alternative to frameworks like Bootstrap and Foundation, with the difference that Concise only includes the minimum styles required
+ConciseCSS is a CSS Framework that provides a solid foundation to stylize your website. It offers an alternative to frameworks like Bootstrap and Foundation, with the difference that Concise only includes the minimum styles required
 + [PageKit](https://pagekit.com/)
 
 Pagekit is a modern and lightweight open source CMS
