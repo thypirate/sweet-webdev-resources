@@ -1,5 +1,4 @@
 # awesome-webdev-tools
----
 A collection of awesome web development tools and other cools resources
 
 Purpose of this repo
