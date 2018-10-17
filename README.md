@@ -1,184 +1,80 @@
-# awesome-webdev-tools
-A collection of awesome web development tools and other cools resources
+# Sweet-webdev-resources
+> A collection of useful web development resources such as web frameworks, web servers, static site generators, libraries, guides and more.
 
-Purpose of this repo
+Contents
 ---
-This repo has the purpose to provide useful resources like javascript libraries, guides, blogs, web frameworks and so on.
++ [Web Servers](#web-servers)
++ [Web Frameworks](#web-frameworks)
++ [Static Site Generators](#static-site-generators)
++ [Workflow Automation](#workflow-automation)
++ [Libraries](#libraries)
++ [Guides and Guides](#guides-and-articles)
 
-Content List
+Web Development Resources
 ---
-[Web Servers Web Frameworks and Mobile Frameworks](#web-servers-web-frameworks-and-mobile-frameworks) | [Productivity](#productivity) | [Libraries and Plugins](#libraries-and-plugins) | [Articles Blogs and Guides](#articles-blogs-and-guides)
+### Web Servers
++ [Apache](https://httpd.apache.org/) - is a free and open-source cross-platform web server.
++ [NGINX](https://www.nginx.com/) - is a web server that focus on improving performance, reliability, and security of applications.
 
-### Web Servers Web Frameworks and Mobile Frameworks
-+ [Meteor](https://www.meteor.com/)
+### Web Frameworks
++ [Backbone.Js](http://backbonejs.org/) - gives structure to web applications by using MVC (Model, View, Controller) on javascript code.
++ [Bootstrap](https://getbootstrap.com/) - is an open source responsive framework for developing with HTML, CSS, and JS.
++ [Bulma](https://bulma.io/) - is an open source CSS framework based on Flexbox.
++ [ConciseCSS](http://concisecss.com/) - is a CSS Framework that provides a solid foundation to stylize your website.
++ [ExpressJs](https://expressjs.com/) - is a minimal and flexible Node.js web application framework.
++ [Foundation](https://foundation.zurb.com/) - is a front-end responsive framework.
++ [Flakes](http://getflakes.com/) - is an open source design & frontend framework that serves as a foundation for internal business applications.
++ [Flight](https://flightjs.github.io/) - is a component-based, event-driven JavaScript framework from Twitter.
++ [Flutter](https://flutter.io/) - is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android.
++ [Handlebars](http://handlebarsjs.com/) - provides the power necessary to let you build semantic templates effectively with no frustration.
++ [Hapi](https://hapijs.com/) - a rich framework for building applications and services.
++ [Ionic Framework](https://ionicframework.com/) - lets web developers build, test, deploy and monitor cross-platform apps easier than ever.
++ [LimeJs](http://www.limejs.com/) - is a HTML5 game framework for building fast, native-experience games for all modern touchscreens and
+  desktop browser.
++ [Materialize](https://materializecss.com/) - is a modern responsive front-end framework based on Material Design.
++ [Material Design Lite](https://getmdl.io/index.html) - lets you add a Material Design look and feel to your websites.
++ [Molecule](https://github.com/fjsantosb/Molecule) - is a Html5 Game Framework to build cross-platform games on a fast and efficient way.
++ [Odyssey.JS](http://cartodb.github.io/odyssey.js/) - is an open-source tool that allows you to combine maps, narratives, and other multimedia into a beautiful story.
++ [OpenUI5](https://openui5.org/) - is an open source JavaScript UI library.
++ [PatternLab](https://patternlab.io/) - is a pattern-driven user interfaces using atomic design principles.
++ [PageKit](https://pagekit.com/) - is a modern and lightweight open source CMS.
++ [Phaser](http://phaser.io/) - is a desktop and mobile Html5 game framework.
++ [Rachet](http://goratchet.com/) - is a front-end framework for building mobile web apps in HTML, CSS, and JavaScript
++ [Riot](https://riot.js.org/) - is a simple and elegant component-based UI library
++ [Silex](https://silex.symfony.com/) - is a PHP microframework for PHP. It is built on the shoulders of symfony and Pimple and also inspired by sinatra.
++ [Slim](https://www.slimframework.com/) - is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 
-  Meteor is a open-source javascript web framework
-+ [Slim](https://www.slimframework.com/)
+### Static Site Generators
++ [Gatsby](https://www.gatsbyjs.org/) - is a blazing fast modern site generator for React.
++ [GitBook](https://www.gitbook.com/) - makes it easy for your team to write and maintain high-quality documentation.
++ [Hugo](https://gohugo.io/) - is a open-source static site generators.
++ [Jekyll](https://jekyllrb.com/) - is a simple, extendable, static site generator.
++ [Roots](http://roots.netlify.com/) - is a static site compiler, that generates static html, css, and javascript files.
 
-  Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs
-+ [Silex](https://silex.symfony.com/)
+### Workflow Automation
++ [IFTTT](https://ifttt.com/) - is an easy way to automate tasks.
++ [Gulp](https://gulpjs.com/) - is a toolkit for automating painful or time-consuming tasks in your development workflow.
++ [Grunt](https://gruntjs.com/) - is a javascript task runner written on top of NodeJS.
++ [Netlify](https://www.netlify.com/) - is an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS.
++ [Surge](https://surge.sh/) - simple, single-command web publishing.
++ [Vagrant](https://www.vagrantup.com/) - is a tool for building and managing virtual machine environments in a single workflow.
++ [Webpack](https://webpack.js.org/) - is a module bundler.
++ [Yeoman](http://yeoman.io/) - client-side scaffolding tool for web applications.
++ [Zapier](https://zapier.com/) - lets you connect your apps and automate workflows.
 
-  Silex is a PHP microframework for PHP. It is built on the shoulders of symfony and Pimple and also inspired by sinatra
-+ [LimeJs](http://www.limejs.com/)
+### Libraries
++ [BootstrapValidator](https://github.com/nghuuphuoc/bootstrapvalidator) - is a validation library for javascript.
++ [Gumshoe](https://github.com/cferdinandi/gumshoe) - is a simple, framework-agnostic scrollspy script.
++ [JsCookie](https://github.com/js-cookie/js-cookie) - is a simple, lightweight javascript api for handling browser cookies.
++ [FormanceJs](http://omarshammas.github.io/formancejs) - is a general purpose library for formatting and validating form fields, based on / inspired by Stripe's jQuery.payment library.
++ [Passport](http://www.passportjs.org/) - is a authentication middleware for Node.js.
++ [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll) - is a lightweight script to animate scrolling to anchor links.
++ [Underscore](http://underscorejs.org/#collections) -  is a JavaScript library that provides a whole mess of useful functional programming helpers.
 
-  LimeJs is a HTML5 game framework for building fast, native-experience games for all modern touchscreens and
-  desktop browser
-+ [Phaser](http://phaser.io/)
-
-  Phaser is a desktop and mobile Html5 game framework
-+ [Molecule](https://github.com/fjsantosb/Molecule)
-
-  Molecule is a Html5 Game Framework to build cross-platform games on a fast and efficient way
-+ [Flakes](http://getflakes.com/)
-
-  Flakes is an open source design & frontend framework that serves as a foundation for internal business applications
-+ [AdminJs](https://github.com/getoutreach/adminjs)
-
-  AdminJs is a backend agnostic administration framework
-+ [Flight](https://flightjs.github.io/)
-
-  Flight is a component-based, event-driven JavaScript framework from Twitter
-+ [Materialize](https://materializecss.com/)
-
-  Materialize is a modern responsive front-end framework based on Material Design
-+ [Rachet](http://goratchet.com/)
-
-  Rachet is a front-end framework for building mobile web apps in HTML, CSS, and JavaScript
-+ [ConciseCSS](http://concisecss.com/)
-
-  ConciseCSS is a CSS Framework that provides a solid foundation to stylize your website.
-+ [PageKit](https://pagekit.com/)
-
-  Pagekit is a modern and lightweight open source CMS
-+ [Flakes](http://getflakes.com)
-
-  Flakes is an open surce design & frontend framework that serves as a foundation for internal business applications
-+ [PatternLab](https://patternlab.io/)
-
-  Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles
-+ [OpenUI5](https://openui5.org/)
-
-  OpenUI5 is an open source JavaScript UI library
-+ [Odyssey.JS](http://cartodb.github.io/odyssey.js/)
-
-  Odyssey.js is an open-source tool that allows you to combine maps, narratives, and other multimedia into a beautiful story
-+ [Hugo](https://gohugo.io/)
-
-  Hugo is a open-source static site generators
-+ [GitBook](https://www.gitbook.com/)
-
-  GitBook makes it easy for your team to write and maintain high-quality documentation
-+ [Jekyll](https://jekyllrb.com/)
-
-  Jekyll is a simple, extendable, static site generator
-+ [Cucumber](https://cucumber.io/)
-
-  Cucumber is a tool that supports Behaviour-Driven Development(BDD)
-+ [Bulma](https://bulma.io/)
-
-  Bulma is an open source CSS framework based on Flexbox
-+ [NativeScript](https://www.nativescript.org/)
-
-  Open source framework for building truly native mobile apps with Angular, Vue.js, TypeScript, or JavaScript
-+ [Hapi](https://hapijs.com/)
-
-  A rich framework for building applications and services
-+ [Gatsby](https://www.gatsbyjs.org/)
-
-  Gatsby is a blazing fast modern site generator for React
-+ [Material Design Lite](https://getmdl.io/index.html)
-
-  Material Design Lite lets you add a Material Design look and feel to your websites
-+ [Ionic Framework](https://ionicframework.com/)
-
-  Ionic lets web developers build, test, deploy and monitor cross-platform apps easier than ever
-+ [Onsen UI](https://onsen.io/)
-
-  A large set of rich UI components specifically designed for mobile apps
-+ [Sencha Ext JS](https://www.sencha.com/products/extjs/#overview)
-
-  Ext JS helps you build data-intensive, cross-platform web apps for desktops, tablets, and smartphones
-+ [Flutter](https://flutter.io/)
-
-  Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android
-+ [Riot](https://riot.js.org/)
-
-  Simple and elegant component-based UI library
-+ [Backbone.Js](http://backbonejs.org/)
-
-  Backbone.js gives structure to web applications by providing models with key-value binding and custom events
-+ [Handlebars](http://handlebarsjs.com/)
-
-  Handlebars provides the power necessary to let you build semantic templates effectively with no frustration
-+ [LoopBack](https://loopback.io/)
-
-  LoopBack is a highly-extensible, open-source Node.js framework
-+ [ExpressJs](https://expressjs.com/)
-
-  Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications
-+ [Cowboy](https://github.com/ninenines/cowboy)
-
-  Small, fast, modern HTTP server for Erlang/OTP
-
----
-
-### Productivity
-+ [IFTTT](https://ifttt.com/)
-
-  IFTTT is the free way to get all your apps and devices talking to each other
-+ [Zapier](https://zapier.com/)
-
-  Zapier lets you connect your apps and automate workflows
-+ [Gulp](https://gulpjs.com/)
-
-  Gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something
-+ [Grunt](https://gruntjs.com/)
-
-  Grunt is a javascript task runner
-+ [Netlify](https://www.netlify.com/)
-
-  An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS
-+ [Vagrant](https://www.vagrantup.com/)
-
-  Vagrant is a tool for building and managing virtual machine environments in a single workflow
-
----
-
-### Libraries Plugins and Polyfills
-+ [ReactJs](https://reactjs.org/)
-
-  ReactJs is a JavaScript library for building user interfaces
-+ [FormanceJs](http://omarshammas.github.io/formancejs)
-
-  A general purpose library for formatting and validating form fields, based on / inspired by Stripe's jQuery.payment library.
-+ [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-
-  A lightweight script to animate scrolling to anchor links.
-+ [Gumshoe](https://github.com/cferdinandi/gumshoe)
-
-  A simple, framework-agnostic scrollspy script
-+ [Passport](http://www.passportjs.org/)
-
-  Passport is authentication middleware for Node.js.
-+ [BootstrapValidator](https://github.com/nghuuphuoc/bootstrapvalidator)
-
-  A validation library for JavaScript
-
----
-
-### Articles Blogs and Guides
-+ [CSS guidelines](https://cssguidelin.es/)
-
-  A guide about writing manageable, scalable css
-+ [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
-
-  A blog post about webpage rendering
-+ [Using Preload and Prefetch in Your HTML to Load Assets](https://alligator.io/html/preload-prefetch/)
-
-  A article about using preload and prefect to load assets
-+ [Lazy Loading Scripts](https://alligator.io/js/lazy-loading-scripts/)
-
-  A article about lazy loading scripts
-+ [Http API Design](https://github.com/interagent/http-api-design)
-
-  This guide describes a set of HTTP+JSON API design practices
+### Guides and Articles
++ [CSS guidelines](https://cssguidelin.es/) - is a guide about writing manageable, scalable css.
++ [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/) -
+  is a blog post about webpage rendering.
++ [Using Preload and Prefetch in Your HTML to Load Assets](https://alligator.io/html/preload-prefetch/) - is a article about using preload and prefect to load assets.
++ [Lazy Loading Scripts](https://alligator.io/js/lazy-loading-scripts/) - is a article about lazy loading scripts.
++ [Http API Design](https://github.com/interagent/http-api-design) - is a guide describes a set of HTTP+JSON API design practices.
