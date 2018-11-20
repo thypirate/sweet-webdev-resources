@@ -16,8 +16,9 @@ Contents
 + [Icons UI Resources](#icons-ui-resources)
 + [Testing Tools](#testing-tools)
 + [Encryption Tools](#encryption-tools)
-+ [Compressing Images Tools](#compressing-images-tools)
-+ [Miscellaneous Tools](#miscellaneous-tools)
++ [Optimization Tools](#optimization-tools)
++ [Monitoring tools](#monitoring-tools)
++ [Other Tools](#other-tools)
 + [Maps APIs](#maps-apis)
 + [Articles Blogs and Guides](#articles-blogs-and-guides)
 
@@ -222,7 +223,6 @@ Web Development Resources
 ### Monitoring tools
 + [Hyperping](https://hyperping.io/) - simple and reliable website monitoring.
 + [Jaeger](https://www.jaegertracing.io/) - is a distributed tracing system released as open source by Uber Technologies.
-+ [OpenTracing](https://opentracing.io/) - 
 + [Prometheus](https://prometheus.io/) - is an open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 + [Zipkin](https://zipkin.io/) - is a distributed tracing system based on the Google Dapper paper.
 
