@@ -47,6 +47,7 @@ Web Development Resources
 + [Simple Grid](http://thisisdallas.github.io/Simple-Grid/) - was created for developers who need a barebones grid.
 + [Skeleton](http://getskeleton.com/) - responsive boilerplate.
 
+
 ### Game Frameworks
 + [LimeJs](http://www.limejs.com/) - is a HTML5 game framework for building fast, native-experience games for all modern touchscreens and
   desktop browser.
@@ -152,6 +153,7 @@ Web Development Resources
 + [Waypoints](http://imakewebthings.com/waypoints/) - is the easiest way to trigger a function when you scroll to an element.
 + [Wow.js](https://wowjs.uk/) - is an javaScript animation library.
 + [X-editable](http://vitalets.github.io/x-editable/) - allows you to create editable elements on your page.
++ [Vue Js](https://vuejs.org/) - is a javascript library for building user interfaces.
 
 ### Templating Engines
 + [ejs](http://www.embeddedjs.com/) - is a client-side templating language that was originally part of JavaScriptMVC.
