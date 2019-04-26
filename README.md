@@ -1,5 +1,5 @@
 # Sweet-webdev-resources
-> A collection of useful web development resources such as web front-end frameworks and back-end frameworks, web servers, static site generators, libraries, guides and more.
+> A collection of useful/cool web development resources such as web front-end frameworks and back-end frameworks, web servers, static site generators, libraries, guides and more.
 
 Contents
 ---
@@ -58,6 +58,7 @@ Web Development Resources
 + [Hapi](https://hapijs.com/) - a rich framework for building applications and services.
 + [Silex](https://silex.symfony.com/) - is a PHP microframework for PHP. It is built on the shoulders of symfony and Pimple and also inspired by sinatra.
 + [Slim](https://www.slimframework.com/) - is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
++ [Sinatra](http://www.sinatrarb.com/) - is a DSL for quickly creating web applications in Ruby with minimal effort.
 + [Parse Server](https://parseplatform.org/) - is an open source version of the Parse backend that can be deployed to any infrastructure that can run Node.js.
 
 ### CMS and Static Site Generators
@@ -67,18 +68,23 @@ Web Development Resources
 + [Hugo](https://gohugo.io/) - is a open-source static site generators.
 + [Jekyll](https://jekyllrb.com/) - is a simple, extendable, static site generator.
 + [PageKit](https://pagekit.com/) - is a modern and lightweight open source CMS.
++ [Strapi](https://strapi.io/) - is a open source headless CMS.
 + [Roots](http://roots.netlify.com/) - is a static site compiler, that generates static html, css, and javascript files.
++ [WordPress](https://wordpress.com/) - the web most popular content management system.
 
 ### Workflow Automation
 + [AutoKey](https://www.autohotkey.com/) - is automation scripting language for Windows.
 + [Bower](https://bower.io/) - is a package manager for the web.
 + [Browserify](http://browserify.org/) - is a development tool that allows us to write node.js-style modules that compile for use in the browser.
++ [Brunch](https://brunch.io/) - 
 + [Capistrano](https://github.com/capistrano/capistrano) - is a framework for building automated deployment scripts.
 + [IFTTT](https://ifttt.com/) - is an easy way to automate tasks.
 + [Gulp](https://gulpjs.com/) - is a toolkit for automating painful or time-consuming tasks in your development workflow.
 + [Grunt](https://gruntjs.com/) - is a javascript task runner written on top of NodeJS.
++ [Hubot](https://hubot.github.com/) -
 + [npm](https://www.npmjs.com/) is the package manager for JavaScript and the world’s largest software registry.
 + [Netlify](https://www.netlify.com/) - is an all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS.
++ [PuhPHPet](https://puphpet.com/) - A simple GUI to set up virtual machines for Web development.
 + [Surge](https://surge.sh/) - simple, single-command web publishing.
 + [Vagrant](https://www.vagrantup.com/) - is a tool for building and managing virtual machine environments in a single workflow.
 + [Webpack](https://webpack.js.org/) - is a module bundler.
@@ -94,6 +100,7 @@ Web Development Resources
 + [BootstrapValidator](https://github.com/nghuuphuoc/bootstrapvalidator) - is a validation library for javascript.
 + [Buttons](http://unicorn-ui.com/buttons/builder/) - a CSS button library built with Sass & Compass.
 + [comlink](https://github.com/GoogleChromeLabs/comlink) - comlink makes WebWorkers enjoyable.
++ [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages.
 + [DataCollection.Js](http://thestorefront.github.io/DataCollection.js/) - Inspired by modern Object Relational Managers, DataCollection.js is a JavaScript library for storage, filtration, manipulation and accession of large datasets.
 + [DataTables](https://datatables.net/) - is a plug-in for the jQuery Javascript library.
 + [Date Range Picker](http://www.daterangepicker.com) - is a javaScript component for choosing date ranges, dates and times.
@@ -122,6 +129,7 @@ Web Development Resources
 + [Modernizr](https://modernizr.com/) - tells you what HTML, CSS and JavaScript features the user’s browser has to offer.
 + [Odyssey.JS](http://cartodb.github.io/odyssey.js/) - is an open-source tool that allows you to combine maps, narratives, and other multimedia into a beautiful story.
 + [OwlCarousel2](https://owlcarousel2.github.io/OwlCarousel2/) - is a jquery plugin for creating responsive carousel slider.
++ [Parley](http://parsleyjs.org/) - is a javascript form validation library.
 + [Passport](http://www.passportjs.org/) - is a authentication middleware for Node.js.
 + [Prism](https://prismjs.com/) - is a lightweight, extensible syntax highlighter.
 + [React](https://reactjs.org/) - is a javascript library for building user interfaces.
@@ -142,6 +150,7 @@ Web Development Resources
 + [way.Js](http://gwendall.github.io/way/) - is a simple, lightweight, persistent, framework-agnostic javascript library that allows you to bind DOM elements to an in-memory datastore (with no to little JS code).
 + [Waves](http://fian.my.id/Waves/) - click effect inspired by Google's Material Design.
 + [Waypoints](http://imakewebthings.com/waypoints/) - is the easiest way to trigger a function when you scroll to an element.
++ [Wow.js](https://wowjs.uk/) - is an javaScript animation library.
 + [X-editable](http://vitalets.github.io/x-editable/) - allows you to create editable elements on your page.
 
 ### Templating Engines
@@ -190,6 +199,7 @@ Web Development Resources
 + [bwapp](http://www.itsecgames.com/) - is a free and open source deliberately insecure web application.
 + [Chai](https://www.chaijs.com/) - is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 + [Cucumber](https://docs.cucumber.io/) - is a tool that supports Behaviour-Driven Development (BDD) - a software development process that aims to enhance software quality and reduce maintenance costs.
++ [Dom Monster](http://mir.aculo.us/dom-monster/) - is a cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.
 + [GTmetrix](https://gtmetrix.com/) - GTmetrix gives you insight on how well your site loads and provides actionable recommendations on how to optimize it.
 + [Loader](https://loader.io/) - is a FREE load testing service that allows you to stress test your web-apps & apis with thousands of concurrent connections.
 + [Markup Validation Service](https://validator.w3.org/) - is a tool to check the markup (html, xhtml, ...) of web documents.
@@ -213,12 +223,14 @@ Web Development Resources
 ### Optimization Tools
 + [Compress PNG](https://compresspng.com/) - online tool for compressing png files.
 + [LABjs](https://github.com/getify/LABjs) - loading And Blocking JavaScript: On-demand parallel loader for JavaScript with execution order dependencies.
++ [Babel](https://babeljs.io/) - is a compiler for writing next generation Javascript.
 + [Prepack](https://prepack.io/) - A tool for making JavaScript code run faster.
 + [purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 + [Optimize-js](https://github.com/nolanlawson/optimize-js) - optimize a JS file for faster parsing (UNMAINTAINED).
 + [Require.Js](https://requirejs.org/) - is a JavaScript file and module loader.
 + [tinyjpg](https://tinyjpg.com/) - online tool for compressing jpg and png files.
 + [Varnish HTTP Cache](https://varnish-cache.org/) - is a web application accelerator also known as a caching HTTP reverse proxy.
++ [Cloudflare](https://www.cloudflare.com/) - is one of the biggest networks operating on the Internet. People use Cloudflare services for the purposes of increasing the security and performance of their web sites and services.
 
 ### Monitoring tools
 + [Hyperping](https://hyperping.io/) - simple and reliable website monitoring.
@@ -237,19 +249,26 @@ Web Development Resources
 + [TodoMVC](http://todomvc.com/) - is a project which offers the same todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
 + [ttygif](https://github.com/icholy/ttygif) - convert terminal recordings to animated gifs.
 + [typing.io](https://typing.io/) - is a typing tutor/trainer for programmers.
++ [EditorConfig](https://editorconfig.org) - helps developers define and maintain consistent coding styles between different editors and IDEs.
++ [Headway](https://headwayapp.co) - easiest way to keep your customers in the loop about your product.
++ [sneakpeekit](http://sneakpeekit.com) - printable grids for design wireframing.
++ [Lorem Ipsum](https://www.lipsum.com) - is simply dummy text of the printing and typesetting industry.
++ [Apache Guacamole](https://guacamole.apache.org) - is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 
 ### Maps APIs
++ [Google Maps](https://developers.google.com/maps) - Maps Api by Google.
 + [Leaflet](https://leafletjs.com/) - is an open-source JavaScript library for mobile-friendly interactive maps.
 + [Mapfit](https://www.mapfit.com/developers) - Add beautiful, interactive maps on the web with our easy-to-use Javascript framework.
 + [OpenLayers](https://openlayers.org/) - OpenLayers makes it easy to put a dynamic map in any web page.
 + [Places API](https://developer.foursquare.com/places-api) - the world’s top companies and more than 125,000 developers rely on Foursquare to power geo-tagging, venue search and more in their apps.
 + [Yandex](https://tech.yandex.com/maps/) - The Yandex.Maps API offers a range of services for using Yandex technologies and map data in your projects.
 
-### Articles Blogs and Guides
+### Articles Blogs Guides Documentation
 + [north](https://github.com/north/north#developer) - is a guide about design and development standards.
 + [Berg Cloud Buttons](https://css-tricks.com/berg-cloud-buttons/) - is a article about making berg cloud buttons.
 + [CSS guidelines](https://cssguidelin.es/) - is a guide about writing manageable, scalable css.
-+ [Tips for Designing in the Browser](https://webdesign.tutsplus.com/articles/tips-for-designing-in-the-browser--webdesign-10340) -
++ [DevDocs](https://devdocs.io/) - multiple API documentations in a fast, organized, and searchable interface.
++ [Tips for Designing in the Browser](https://webdesign.tutsplus.com/articles/tips-for-designing-in-the-browser--webdesign-10340) - is a article about designing in the browser.
 + [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/) - is a blog post about webpage rendering.
 + [Creating Style Guides](http://alistapart.com/article/creating-style-guides) -
 + [Using Preload and Prefetch in Your HTML to Load Assets](https://alligator.io/html/preload-prefetch/) - is a article about using preload and prefect to load assets.
@@ -267,3 +286,14 @@ Web Development Resources
 + [Web Fundamentals](https://developers.google.com/web/fundamentals/) - a guide about web development.
 + [Taking Control of Image Loading](https://archive.barrelny.com/blog/taking-control-of-imageloading/) - is a blog post about image loading.
 + [The 4 H’s of Writing Error Messages](https://uxmas.com/2012/the-4-hs-of-writing-error-messages) - is a blog post about writing error messages.
++ [Serif Vs Sans Serif](https://visualhierarchy.co/blog/serif-vs-sans-serif/) - a blog post about the difference between serif and sans serif.
++ [Writing Fast Memory Efficient Javascript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/) - is a blog post about writing memory efficient javascript code.
++ [Garbage Collector Friendly Code](http://buildnewgames.com/garbage-collector-friendly-code/) - is a blog post about garbage collector friendly code.
++ [Why Inline CSS and Javascript Code is Such a Bad Thing](https://robertnyman.com/2008/11/20/why-inline-css-and-javascript-code-is-such-a-bad-thing/) - is a blog post about inline css and javascript code.
++ [Improve Your Website Performance Tips Tricks to get a Good Yslow Rating](https://robertnyman.com/2008/05/09/improve-your-web-site-performance-tips-tricks-to-get-a-good-yslow-rating/) - is a blog post about improving web site performance.
++ [How to Defer Images](https://varvy.com/pagespeed/defer-images.html) - is a blog post about how to defer images.
++ [How to use Google Analytics for Site up down Status Monitoring](https://crunchify.com/how-to-use-google-analytics-for-site-up-down-status-monitoring-pingdom-alternative/) - is a blog post about how to use google analytics for monitoring site up down status.
++ [Nginx vs Apache](https://www.keycdn.com/support/nginx-vs-apache) - is a blog post about nginx and apache.
++ [Understand how structured data works](https://developers.google.com/search/docs/guides/intro-structured-data) - is a guide about structured data and how it works.
++ [Securing Cookies with HttpOnly and secure Flags](https://resources.infosecinstitute.com/securing-cookies-httponly-secure-flags/#gref) - is a blog post about how to secure cookies.
++ []() -
